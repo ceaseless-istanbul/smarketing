@@ -17,13 +17,13 @@ nav{
 .nav ul li a {
     text-decoration: none;
     padding: 26px;
-    color: red;
+    color: #ED1C24;
     transition: all 1s ease;
     background-color: inherit;
 }
 .nav ul li a:hover{
 background-color: red;
-color:#d9d9d9;
+color:#ED1C24;
 }
  img{
   width: 90px;
