@@ -22,8 +22,8 @@ nav{
     background-color: inherit;
 }
 .nav ul li a:hover{
-background-color: red;
-color:#ED1C24;
+background-color: #ED1C24;
+color:white;
 }
  img{
   width: 90px;
